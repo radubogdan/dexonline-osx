@@ -3,16 +3,17 @@
     {
       "idiom" : "universal",
       "scale" : "1x",
-      "filename" : "dexonlineIcon.png"
+      "filename" : "do20_1x.png"
     },
     {
       "idiom" : "universal",
       "scale" : "2x",
-      "filename" : "dexonlineIcon-1.png"
+      "filename" : "do20_2x.png"
     },
     {
       "idiom" : "universal",
-      "scale" : "3x"
+      "scale" : "3x",
+      "filename" : "do20_3x.png"
     }
   ],
   "info" : {
