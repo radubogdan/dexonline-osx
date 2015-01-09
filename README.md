@@ -5,6 +5,9 @@ Search romanian words on dexonline.ro from OS X status bar.
 
 <a href="http://imgur.com/dAkfjO8"><img src="http://i.imgur.com/dAkfjO8.png" title="source: imgur.com" /></a>
 
+## Download
+Extract [this](http://dotix.me/apps/dexonline-osx.zip) `.zip` to `/Applications`
+
 ## License
 See the [LICENSE](https://github.com/radubogdan/passgen/blob/master/LICENSE).
 
